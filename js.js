@@ -11,13 +11,13 @@ const text =document.querySelector(".second-text");
 const textLoad= () =>
 {
 setTimeout(() =>{
-   text.textContent="Frontend Developer";
+   text.textContent="Frontend Deve";
 },0);
 setTimeout(() =>{
-   text.textContent="Junior Frontend Developer";
+   text.textContent="Junior Deve";
 },4000);
 setTimeout(() =>{
-   text.textContent="Passionate Frontend Developer";
+   text.textContent="Passionate Deve";
 },8000);
 }
 textLoad();
